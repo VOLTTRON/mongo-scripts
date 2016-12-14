@@ -5,6 +5,7 @@ import sys
 
 topic_list = None
 
+
 def get_connection(cn_dict):
     mongo_uri = "mongodb://{user}:{passwd}@{hostsandports}/{database}"
     if cn_dict.get('authSource'):
