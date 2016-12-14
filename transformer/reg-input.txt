@@ -1,0 +1,3 @@
+"SEARCH","REPLACE"
+".*energy impact\/energy impact","%REPLACE%(energy impact/energy impact,energy impact)"
+".*diagnostic message/diagnostic message","%REPLACE%(diagnostic message/diagnostic message,diagnostic message)"
