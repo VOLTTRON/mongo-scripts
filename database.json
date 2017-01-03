@@ -1,7 +1,7 @@
 {
   "user": "historian",
   "passwd": "volttron",
-  "hostsandports": "volttrondev.pnl.gov:27017",
+  "hostsandports": "address.of.host:27017",
   "authSource": "historian",
   "database": "historian"
 }
